@@ -1,6 +1,6 @@
 # fl_components
 
-A new Flutter project.
+Proyecto para repasar los componentes mas importantes de flutter en el proceso de creacion de aplicaciones.
 
 ## Getting Started
 
